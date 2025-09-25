@@ -1,2 +1,2 @@
 Practice Git Hub :)
-Testing for Push Command..!!
+Testing for Push Command..
